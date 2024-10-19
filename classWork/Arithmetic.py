@@ -10,4 +10,22 @@ print (Average)
 
 Product =( number1 * number2 * number3 )
 print (Product)
-Smallest
+
+if number1 > number2 and number1 > number3:
+	print(number1)
+if number2 > number3 and number2 > number1:
+	print(number2)
+if number3 > number2 and number3 > number1:
+	print(number3)
+
+
+if number1 < number2 and number1< number3:
+	print(number1)
+if number2 < number3 and number2 < number1:
+	print(number2)
+if number3<number1 and number3 < number2:
+	print(number3)
+
+
+
+		

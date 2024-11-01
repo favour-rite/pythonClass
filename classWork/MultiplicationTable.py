@@ -1,9 +1,9 @@
-int number = 5
-int count = 0
+number = 5
+count = 0
 		
-while (count <= number)
-	int total = number * count
+while (count <= number):
+	total = number * count
 	count+=1
-print( number + " * " + count + " = " + total )
+print( number , " * " , count , " = " , total )
 		
 

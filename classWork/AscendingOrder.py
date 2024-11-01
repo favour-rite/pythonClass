@@ -4,7 +4,7 @@ number3 = int (input("Enter third number: "))
 if   number1 < number2 < number3:
 	print("number3 number2 number1")
 elif number1 < number3 < number2:
-	print(firstnumber , thirdnumber , secondnumber)
+	print(number1 , number3 , number2)
 
 elif number2 < number1  < number3:
 	print(number2 , number1 , number3) 

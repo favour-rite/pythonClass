@@ -1,0 +1,18 @@
+Celsius to Kelvin and Fahrenheit
+ Monday, November 13, 2023 ⁃ Difficulty: Easy
+Objective
+The Celsius scale is centigrade, 100 divisions separate the freezing point from the boiling point of water. On the Fahrenheit scale of Anglo-Saxons, these two points are 180 degrees apart. The Kelvin scale is an absolute scale used in science.
+
+Create a Java program to convert from degrees Celsius to Kelvin and Fahrenheit. Request the user the number of degrees celsius to convert them using the following conversion tables:
+
+kelvin = celsius + 273
+fahrenheit = celsius x 18 / 10 + 32
+Instructions
+Ask the user for the amount of Celsius degrees to convert.
+Calculate the temperature in kelvin using the formula (celsius + 273).
+Calculate the temperature in fahrenheit using the formula (celsius x 18 / 10 + 32).
+
+Display the results of the conversion in kelvin and fahrenheit.
+
+
+

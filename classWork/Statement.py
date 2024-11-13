@@ -1,8 +1,8 @@
 first_number = 23
 second_number = 10
 
+if first_number == second_number 
+	print()		
+elif first_number != second_number
 
-print( firt_number =', x)
-print( Value of, first_number, '+', first_number, 'is', (first_number + first_number))
-print( first_number = )
-print((first_number + y), '=', (y + x))
+	print()

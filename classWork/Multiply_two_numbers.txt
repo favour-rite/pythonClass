@@ -1,0 +1,21 @@
+from untittest import unittest
+import multiply_two_numbers
+
+class Test_multiply_two_numbers(unittest):
+	number = int(input( enter number ))
+	number2 = int(input (enter number ))
+
+	def test_multiply_two_numbers(digit)
+		actual = multiply_number.get_number(2)
+		expected = 4
+		digit.asserEqual(actual, expected )   
+
+	def test_two_numbers_raise_exception_with_invalid_input(digit):
+		digit.assert(Error Tryagain!!, multiply_two_numbers.get_number " favour" )
+
+	def test_two_numbers_raises_exception_with_invalid_input(digit):
+		digit.assert(Error, multiply_two_numbers.get_number 0.8)                                                     
+
+
+	}
+}

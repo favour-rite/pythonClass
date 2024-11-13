@@ -1,8 +1,27 @@
-sentinel_value = -1
 
 
-gallon_used = int(input (Enter gallon used))
-miles_driven = int(input (Enter miles driven))
-answer = miles_driven / gallon_used
+user_input = (input("Enter number of trips: ")
 
-print (the overall averge)
+totalmiles = 0
+totalgallon = 0
+
+for(int count = 0; count<trips; count++))
+	
+user_input2 = (input ("Enter miles driven: ")
+
+
+totalmiles = + miles
+
+user_input3 = (input (" Enter gallon used:"))
+
+totalgallon = + gallon
+
+double totalmilesPerGallon = (totalmiles/totalgallon)
+print("Your total miles per gallon used is" ,  totalmilesPerGallon)
+
+
+
+	
+
+	
+

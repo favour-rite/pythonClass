@@ -5,7 +5,7 @@ public class Nokia2{
 
 
 		Scanner input =new Scanner (System.in);
-		System.out.print("Enter your choice");
+		System.out.print("Enter your choice/n to exit ");
 		int choice = input.nextInt();
 
 		switch(choice){

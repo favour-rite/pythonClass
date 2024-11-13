@@ -1,4 +1,4 @@
-size = 14
+chhsize = 14
 count = 0
 
 for counter in range(size - 1):

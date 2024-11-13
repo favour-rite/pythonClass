@@ -1,0 +1,8 @@
+initialize count to zero
+a given number * count
+while count is less than equal to 10
+54321
+4321
+321
+21
+1

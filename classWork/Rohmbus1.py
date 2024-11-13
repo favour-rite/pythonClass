@@ -1,3 +1,8 @@
+
+
+
+
+
 for count in range(0,7):
 	for number in range(0, 7-count):
 		print(' ', end = "")

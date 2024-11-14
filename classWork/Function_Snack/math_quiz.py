@@ -13,6 +13,7 @@ def math_quiz():
 		rand2 = random.randrange(1,1000)
 		
 		response = int(input(f"Calculate {rand1} {sign[count]} {rand2}: "))
+
 		if count < 5:
 			answer = rand1 + rand2
 		elif count >= 5 and count <= 7:
@@ -25,6 +26,8 @@ def math_quiz():
 
 		else: 
 			failed += 1
+
+
 			right_answer.append(f"You missed question {count 
 +1}, The correct answer for {rand1} {sign[count]} {rand2} is {answer}")
 

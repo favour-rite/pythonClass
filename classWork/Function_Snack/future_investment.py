@@ -3,6 +3,7 @@ def future_investment (investment_amount,monthly_intrest,years):
 	
 	print (future_investment)
 	return future_investment
+
 print("Years\tFuture Value")
 years = 1
 investment = 0

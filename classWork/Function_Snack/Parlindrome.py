@@ -1,3 +1,4 @@
+
 number = int(input(" enter number "))
 digit1 = number % 10
 digit2 = number // 10

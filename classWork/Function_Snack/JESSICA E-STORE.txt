@@ -1,0 +1,51 @@
+JESSICA E-STORE
+>>Welcome To Jessica Mini E-Store<<
+-Prompt user to enter menu for specific choice
+ menu
+1. View Product
+2. Add to Cart
+3. Remove from Cart
+4. View Cart
+5. Checkout
+6.  Exit
+
+
+print product name and price tag for customers to make their chioce
+*Laptop $1000
+*Phone $500
+*Headphone $100
+
+- Create a function that add_to_cart
+*create a function
+*addd product to shopping cart
+*confirm addition with product has been added to your cart
+ 
+-create a fuction: to remove from the cart(cart)
+remove product
+confirm and notify removal with "product" have been removed from your cart
+
+-create a function to view cart(cart)
+display menu
+display error message if the item is not found in the cart"your cart is currently not found"
+
+
+create function: calculating the total cost of an item bought in the cart(cart)
+
+-looping through cart
+-Calculate total cost
+create a function checkout(cart)
+
+-display total amount
+-clears the cart after checkout
+- display thank you"thank you for shopping with us! Your total is $1600"
+-function to go back to the menu
+- default at exist
+
+
+
+
+
+
+
+
+
